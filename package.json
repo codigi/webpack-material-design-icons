@@ -1,0 +1,26 @@
+{
+  "name": "webpack-material-design-icons",
+  "version": "0.0.1",
+  "description": "Webpack Material Design Icons Font",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codigi/webpack-material-design-icons.git"
+  },
+  "keywords": [
+    "webpack",
+    "material",
+    "design",
+    "icons",
+    "font"
+  ],
+  "author": "Atanas Palavrov <palavrov@codigi.net> (http://codigi.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codigi/webpack-material-design-icons/issues"
+  },
+  "homepage": "https://github.com/codigi/webpack-material-design-icons#readme",
+  "dependencies": {
+    "material-design-icons": "^2.2.3"
+  }
+}
