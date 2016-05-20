@@ -1,5 +1,5 @@
 # webpack-material-design-icons
-Webpack Material Design Icons Font.
+Webpack Material Design Icons Font from [Material Icons Guide - Setup Method 2. Self hosting](http://google.github.io/material-design-icons/#setup-method-2-self-hosting)
 ## Install
 ```bash
 npm install --save-dev webpack-material-design-icons
