@@ -1,6 +1,6 @@
 {
   "name": "webpack-material-design-icons",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Webpack Material Design Icons Font",
   "main": "index.js",
   "repository": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/codigi/webpack-material-design-icons#readme",
   "dependencies": {
-    "material-design-icons": "^2.2.3"
+    "material-design-icons": "^3.0.1"
   }
 }
